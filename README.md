@@ -1,0 +1,4 @@
+conffiles
+=========
+
+Configuration files

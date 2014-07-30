@@ -1,0 +1,32 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Anaconda",
+		"AngularJS",
+		"Behat",
+		"ColorSchemeSelector",
+		"Dayle Rees Color Schemes",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Enlightened Color Scheme",
+		"Gutter Color",
+		"Handlebars",
+		"Jasmine BDD",
+		"JSON Reindent",
+		"Mercurial",
+		"Mercurial for Sublime",
+		"Origami",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-jsl",
+		"SublimeLinter-json",
+		"SublimeLinter-pep8",
+		"SublimePythonIDE",
+		"Tomorrow Color Schemes",
+		"Vintage Escape",
+		"VintageLines",
+		"Vintageous"
+	]
+}

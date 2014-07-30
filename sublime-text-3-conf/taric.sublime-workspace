@@ -1,0 +1,3078 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"emp",
+				"empty_handler	function"
+			],
+			[
+				"atu",
+				"authenticated_handler	function"
+			],
+			[
+				"authentic",
+				"authenticated_handler	function"
+			],
+			[
+				"current",
+				"current_user"
+			],
+			[
+				"atta",
+				"attachment_id	param"
+			],
+			[
+				"authen",
+				"authenticated_handler	function"
+			],
+			[
+				"cure",
+				"current_user"
+			],
+			[
+				"curre",
+				"current_app	import"
+			],
+			[
+				"check",
+				"check_user_permission(current_user, permission, error)	(imported, function)"
+			],
+			[
+				"not",
+				"not_notify_own_actions	(local, instance)"
+			],
+			[
+				"asser",
+				"assert_raises_regexp	import"
+			],
+			[
+				"TestAp",
+				"TestApiMethodsUpdate	class"
+			],
+			[
+				"reocrd",
+				"record_change	function"
+			],
+			[
+				"le",
+				"length	statement"
+			],
+			[
+				"histor",
+				"history_fields"
+			],
+			[
+				"empt",
+				"empty_handler(args, kwargs)	(global, function)"
+			],
+			[
+				"ex",
+				"expire_date_string"
+			],
+			[
+				"use",
+				"use_debugger=	(parameter_keyword, instance)"
+			],
+			[
+				"Ta",
+				"TARICZILLA"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"slec",
+				"selectedOffice"
+			],
+			[
+				"targ",
+				"target_state	(global, instance)"
+			],
+			[
+				"tar",
+				"target	(local, instance)"
+			],
+			[
+				"get_gra",
+				"get_graph_row(source, targets)	(global, function)"
+			],
+			[
+				"hy",
+				"hybrid_property"
+			],
+			[
+				"dsit",
+				"distances_to_allowed	(global, instance)"
+			],
+			[
+				"source",
+				"source_state	(global, instance)"
+			],
+			[
+				"all",
+				"allowed_states	(global, instance)"
+			],
+			[
+				"i",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"hadn",
+				"handlers	(imported, instance)"
+			],
+			[
+				"ass",
+				"assert_that	(imported, function)"
+			],
+			[
+				"eve",
+				"eventType"
+			],
+			[
+				"userRules",
+				"userRulesCollection"
+			],
+			[
+				"areasto",
+				"areasToAdd"
+			],
+			[
+				"suscr",
+				"suscribeUserToNotifications"
+			],
+			[
+				"batch",
+				"batch_areas"
+			],
+			[
+				"No",
+				"NotificationRulesHandlerMixin	(global, class)"
+			],
+			[
+				"no",
+				"notification_rules	(local, instance)"
+			],
+			[
+				"notifi",
+				"notification-rules"
+			],
+			[
+				"student",
+				"student_match	(global, instance)"
+			],
+			[
+				"as",
+				"assert_that_raises(exception)	(imported, function)"
+			],
+			[
+				"assert",
+				"assert_that	(imported, instance)"
+			],
+			[
+				"Mixin",
+				"MixinTestApiMethodsSession	(imported, class)"
+			],
+			[
+				"then",
+				"then_return(retval)	(attribute, function)"
+			],
+			[
+				"areas",
+				"areas_to_delete	(attribute, instance)"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"expire",
+				"expire_date	(local, instance)"
+			],
+			[
+				"sess",
+				"session_api	(local, instance)"
+			],
+			[
+				"User",
+				"UserSessions	(imported, class)"
+			],
+			[
+				"USER",
+				"USER_ID	(global, instance)"
+			],
+			[
+				"sessio",
+				"sessions_api	(local, instance)"
+			],
+			[
+				"sessi",
+				"sessions_api	(local, instance)"
+			],
+			[
+				"EXPI",
+				"EXPIRED_SESSION	(global, instance)"
+			],
+			[
+				"EXPIRE",
+				"EXPIRED_ID	(global, instance)"
+			],
+			[
+				"get_",
+				"get_by_user_id_or_create(user_id)	(attribute, function)"
+			],
+			[
+				"get",
+				"get_by_user_id_or_create(user_id)	(attribute, function)"
+			],
+			[
+				"DATETI",
+				"DATETIME_ISO	(global, instance)"
+			],
+			[
+				"visi",
+				"visibilityForm"
+			],
+			[
+				"rende",
+				"renderOfficeSideForm"
+			],
+			[
+				"visibili",
+				"visibilityNoAreas"
+			],
+			[
+				"create",
+				"createPaginator"
+			],
+			[
+				"visibi",
+				"visibilityError"
+			],
+			[
+				"eventT",
+				"eventTypes"
+			],
+			[
+				"res",
+				"restartRequestQueueStatus"
+			],
+			[
+				"visib",
+				"visibilityError"
+			],
+			[
+				"vi",
+				"visibilityError"
+			],
+			[
+				"request",
+				"requestSuccess"
+			],
+			[
+				"_area",
+				"_areaErrorCallback"
+			],
+			[
+				"render",
+				"renderKindsSelect"
+			],
+			[
+				"upda",
+				"updateKindsSelect"
+			],
+			[
+				"U",
+				"UserAreaNotificationsList"
+			],
+			[
+				"office",
+				"office_create(argv)	(global, function)"
+			],
+			[
+				"pret",
+				"pretty_print_list_of_dicts(headers, items)	(global, function)"
+			],
+			[
+				"View",
+				"ViewClass"
+			],
+			[
+				"add",
+				"add_office_to_current_issues	(global, function)"
+			],
+			[
+				"propert",
+				"property	(builtin, function)"
+			],
+			[
+				"auth",
+				"authenticated_handler(function)	(global, function)"
+			],
+			[
+				"REST",
+				"RESTWithoutAuthTestCase	(global, class)"
+			],
+			[
+				"OFFICE",
+				"OFFICE_DATA	(global, instance)"
+			],
+			[
+				"OFFI",
+				"OFFICE_DATA	(global, instance)"
+			],
+			[
+				"offi",
+				"office_id	(local, instance)"
+			],
+			[
+				"assert_",
+				"assert_that	(imported, instance)"
+			],
+			[
+				"OFF",
+				"OFFICE_DATA	(global, instance)"
+			],
+			[
+				"assert_t",
+				"assert_that_raises(exception)	(imported, function)"
+			],
+			[
+				"Mixi",
+				"MixinTestApiMethodsSession	(global, class)"
+			],
+			[
+				"Null",
+				"NULL"
+			],
+			[
+				"Sql",
+				"SQLTapMiddleware	(imported, class)"
+			],
+			[
+				"colum",
+				"columns_length	(local, instance)"
+			],
+			[
+				"col",
+				"column_width	(local, instance)"
+			],
+			[
+				"column",
+				"columns_length	(local, instance)"
+			],
+			[
+				"link",
+				"link_type_create(argv)	(global, function)"
+			],
+			[
+				"max",
+				"max_slug_length	(local, instance)"
+			],
+			[
+				"OA",
+				"OAuth2Backend	(imported, class)"
+			],
+			[
+				"acce",
+				"access_token	(attribute, instance)"
+			],
+			[
+				"proper",
+				"property	(builtin, function)"
+			],
+			[
+				"Tes",
+				"TestAuthenticationUsingOAuthAccessToken	(global, class)"
+			],
+			[
+				"_acce",
+				"_access_token_validation(application_token, user_token)	(attribute, function)"
+			],
+			[
+				"notf",
+				"not_found"
+			],
+			[
+				"access",
+				"access_token_response"
+			],
+			[
+				"_access",
+				"_access_token_validation(token)	(attribute, function)"
+			],
+			[
+				"_authen",
+				"_authentication_headers(token, content_type)	(attribute, function)"
+			],
+			[
+				"aces",
+				"access_token_url	(attribute, instance)"
+			],
+			[
+				"hs",
+				"hasOwnProperty"
+			],
+			[
+				"authe",
+				"authentication	(attribute, instance)"
+			],
+			[
+				"auh",
+				"authenticate_response(status_code)	(attribute, function)"
+			],
+			[
+				"_ref",
+				"_refresh_and_authenticate(email, password)	(attribute, function)"
+			],
+			[
+				"raise",
+				"raise_for_status"
+			],
+			[
+				"_aut",
+				"_authentication_headers(token, content_type)	(attribute, function)"
+			],
+			[
+				"Reque",
+				"RequestException	(imported, class)"
+			],
+			[
+				"format",
+				"formattedValue"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/dsr/proyectos/tariczilla/tests/unit/web/test_admin_handler.py",
+			"settings":
+			{
+				"buffer_size": 3714,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/dsr/proyectos/tariczilla/tests/unit/web/test_user_handler.py",
+			"settings":
+			{
+				"buffer_size": 3722,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/dsr/proyectos/tariczilla/tests/unit/web/test_error_handler.py",
+			"settings":
+			{
+				"buffer_size": 2928,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/dsr/proyectos/tariczilla/tests/unit/web/test_issues_handler.py",
+			"settings":
+			{
+				"buffer_size": 6752,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/dsr/proyectos/tariczilla/tests/unit/web/test_session_handler.py",
+			"settings":
+			{
+				"buffer_size": 2052,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/dsr/proyectos/tariczilla/tests/unit/web/test_notification_rules_handler.py",
+			"settings":
+			{
+				"buffer_size": 2758,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/dsr/proyectos/tariczilla/tariczilla/database/versions/2.2.3-r1_arregla_error_en_lista_valores_de.py",
+			"settings":
+			{
+				"buffer_size": 1281,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/dsr/proyectos/tariczilla/tariczilla/database/versions/2538f7ddb0a7_create_table_history_fields.py",
+			"settings":
+			{
+				"buffer_size": 1436,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/dsr/proyectos/tariczilla/tariczilla/web/static/css/styles.css",
+			"settings":
+			{
+				"buffer_size": 4761,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/dsr/proyectos/tariczilla/tariczilla/api/exceptions.py",
+			"settings":
+			{
+				"buffer_size": 443,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/dsr/proyectos/tariczilla/tariczilla/web/handlers.py",
+			"settings":
+			{
+				"buffer_size": 13933,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/dsr/proyectos/tariczilla/server.json",
+			"settings":
+			{
+				"buffer_size": 2265,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/dsr/proyectos/tariczilla/tests/integration/cli/test_database.py",
+			"settings":
+			{
+				"buffer_size": 927,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/dsr/proyectos/tariczilla/tariczilla/rest/handlers.py",
+			"settings":
+			{
+				"buffer_size": 22471,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/dsr/proyectos/tariczilla/tariczilla/api/users.py",
+			"settings":
+			{
+				"buffer_size": 12563,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/dsr/proyectos/tariczilla/tariczilla/filters.py",
+			"settings":
+			{
+				"buffer_size": 14107,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/dsr/proyectos/tariczilla/tariczilla/rest/__init__.py",
+			"settings":
+			{
+				"buffer_size": 9373,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/dsr/proyectos/tariczilla/tariczilla/web/__init__.py",
+			"settings":
+			{
+				"buffer_size": 3431,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/dsr/proyectos/tariczilla/tariczilla/api/accounts.py",
+			"settings":
+			{
+				"buffer_size": 3183,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"err",
+				"Anaconda: Show error list"
+			],
+			[
+				"togg",
+				"Vintageous: Toggle Vim Ctrl Keys"
+			],
+			[
+				"vtogglevim",
+				"Vintageous: Toggle Vim Ctrl Keys"
+			],
+			[
+				"error",
+				"Anaconda: Show error list"
+			],
+			[
+				"toggl",
+				"Vintageous: Toggle Vim Ctrl Keys"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"tog",
+				"Vintageous: Toggle Vim Ctrl Keys"
+			],
+			[
+				"toggle",
+				"Vintageous: Toggle Vim Ctrl Keys"
+			],
+			[
+				"erro",
+				"Anaconda: Show error list"
+			],
+			[
+				"settins",
+				"Preferences: Settings - User"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"go",
+				"Python: Go to definition"
+			],
+			[
+				"settin",
+				"Preferences: Settings - User"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"clipbo",
+				"Clipboard History"
+			],
+			[
+				"cli",
+				"Clipboard History"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"orig",
+				"Origami: Create Pane Below"
+			],
+			[
+				"tog	",
+				"Vintageous: Toggle Vim Ctrl Keys"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"syhandl",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"wr",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"tags",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"togl",
+				"Vintageous: Toggle Vim Ctrl Keys"
+			],
+			[
+				"shand",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"toglvim",
+				"Vintageous: Toggle Vim Ctrl Keys"
+			],
+			[
+				"dif",
+				"Hg: Diff Current File"
+			],
+			[
+				"to",
+				"Vintageous: Toggle Vim Ctrl Keys"
+			],
+			[
+				"togglevim",
+				"Vintageous: Toggle Vim Ctrl Keys"
+			],
+			[
+				"diffc",
+				"Hg: Diff Current File"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"jsonrein",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"reinde",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"reind",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"jsonre",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"js",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"jso",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"syntaxtext",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"syntaxjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"origamides",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"moveabov",
+				"Origami: Move File to Pane Above"
+			],
+			[
+				"movebelo",
+				"Origami: Move File to Pane Below"
+			],
+			[
+				"origbelo",
+				"Origami: Create Pane Below"
+			],
+			[
+				"togglv",
+				"Vintageous: Toggle Vim Ctrl Keys"
+			],
+			[
+				"syntyam",
+				"Set Syntax: YAML"
+			],
+			[
+				"nex",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"createwifri",
+				"Origami: Create Pane with File on the Right"
+			],
+			[
+				"nexter",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"handle",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synpy",
+				"Set Syntax: Python"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 181.0,
+		"history":
+		[
+			"cls",
+			"cls()",
+			"clear()",
+			"clear",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/static/css/taric-bootstrap.css",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/static/css/taric-bootstrap.css.orig",
+		"/home/dsr/proyectos/tariczilla/tests/integration/test_application.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/tasks.py",
+		"/home/dsr/proyectos/tariczilla/tests/integration/test_repos.py",
+		"/home/dsr/proyectos/tariczilla/.tox/acceptation/lib/python2.7/site-packages/babel/localedata/sbp_TZ.dat",
+		"/home/dsr/proyectos/tariczilla/server-local.json",
+		"/home/dsr/proyectos/tariczilla/while_app_is_running.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/application.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/api/rest.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/templates/reports.html",
+		"/home/dsr/proyectos/tariczilla/README.rst",
+		"/home/dsr/proyectos/tariczilla/.tox/acceptation/lib/python2.7/site-packages/babel/localedata/wal_ET.dat",
+		"/home/dsr/proyectos/tariczilla/.tox/acceptation/bin/webassets",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/static/fonts/fontawesome-webfont.woff",
+		"/home/dsr/proyectos/tariczilla/tests/integration/test_history.py",
+		"/home/dsr/proyectos/tariczilla/tests/unit/web/test_error_handler.py",
+		"/home/dsr/proyectos/tariczilla/tests/unit/rest/test_notification_rules_handler.py",
+		"/home/dsr/proyectos/tariczilla/tests/unit/api/test_notification_rules.py",
+		"/home/dsr/proyectos/tariczilla/tests/integration/test_notification_rule.py",
+		"/home/dsr/proyectos/tariczilla/tests/integration/test_notificator.py",
+		"/home/dsr/proyectos/tariczilla/tests/unit/rest/test_session_handler.py",
+		"/home/dsr/proyectos/tariczilla/tests/unit/test_serialization.py",
+		"/home/dsr/proyectos/tariczilla/alembic_tests.ini",
+		"/home/dsr/proyectos/tariczilla/tests/unit/rest/test_issues_handler.py",
+		"/home/dsr/proyectos/tariczilla/tests/unit/api/test_issues.py",
+		"/home/dsr/proyectos/tariczilla/tests/unit/rest/test_users_handler.py",
+		"/home/dsr/proyectos/tariczilla/tests/unit/web/test_authenticated.py",
+		"/home/dsr/proyectos/tariczilla/tests/unit/web/__init__.py",
+		"/home/dsr/proyectos/tariczilla/.tox/tests-jenkins/lib/python2.7/site-packages/sqlalchemy/orm/unitofwork.py",
+		"/home/dsr/proyectos/tariczilla/.tox/acceptation/lib/python2.7/site-packages/tests/schema/test_schema_multi_inheritance.py",
+		"/home/dsr/proyectos/tariczilla/tests/integration/test_user_session.py",
+		"/home/dsr/proyectos/tariczilla/tests/integration/test_user_search.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/rest/handlers.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/__init__.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/handlers.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/api/reports.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/templates/app.html",
+		"/home/dsr/proyectos/tariczilla/tariczilla/api/decorators.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/serializators.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/templates/issue.html",
+		"/home/dsr/proyectos/tariczilla/.tox/acceptation/lib/python2.7/site-packages/selenium/webdriver/firefox/webdriver.xpi",
+		"/home/dsr/proyectos/tariczilla/.tox/acceptation/lib/python2.7/site-packages/doublex/test/pyDoubles/hamcrest_integration_tests.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/rest/__init__.py",
+		"/home/dsr/proyectos/tariczilla/.tox/acceptation/lib/python2.7/site-packages/pytz/zoneinfo/Africa/Dar_es_Salaam",
+		"/home/dsr/proyectos/tariczilla/dev-requirements.txt",
+		"/home/dsr/proyectos/tariczilla/tariczilla/database/versions/a19dfdd4bd7_create_configuration_table.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/templates/email_body.html",
+		"/home/dsr/proyectos/tariczilla/tariczilla/api/oauth.py",
+		"/home/dsr/proyectos/tariczilla/.tox/acceptation/lib/python2.7/site-packages/redis/client.py",
+		"/home/dsr/proyectos/tariczilla/docs/source/cli.rst",
+		"/home/dsr/proyectos/tariczilla/tariczilla/database/versions/389499a7dd64_create_link_types_table.py",
+		"/home/dsr/proyectos/tariczilla/config-jenkins.json",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/templates/report.html",
+		"/home/dsr/proyectos/tariczilla/tests/unit/api/test_rest_client.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/api/accounts.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/templates/areas.html",
+		"/home/dsr/proyectos/tariczilla/reports/incidenciasabiertas.jrxml",
+		"/home/dsr/proyectos/tariczilla/tariczilla/api/__init__.py",
+		"/home/dsr/proyectos/tariczilla/.tox/acceptation/lib/python2.7/site-packages/setuptools/tests/script-with-bom.py",
+		"/home/dsr/proyectos/tariczilla/tests/unit/api/__init__.py",
+		"/home/dsr/proyectos/tariczilla/.tox/acceptation/lib/python2.7/site-packages/setuptools/command/install_egg_info.py",
+		"/home/dsr/proyectos/tariczilla/.tox/acceptation/lib/python2.7/site-packages/babel/localedata/id_ID.dat",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/templates/main.html",
+		"/home/dsr/proyectos/tariczilla/tariczilla/mappers.py",
+		"/home/dsr/report.html",
+		"/home/dsr/proyectos/tariczilla/.tox/javascript/README.rst",
+		"/home/dsr/proyectos/tariczilla/tariczilla/repos.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/templates/admin.html",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/templates/404.html",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/static/js/src/Templates.js",
+		"/home/dsr/proyectos/tariczilla/tests/integration/test_mappers.py",
+		"/home/dsr/proyectos/tariczilla/docs/source/application.rst",
+		"/home/dsr/proyectos/tariczilla/docs/source/index.rst",
+		"/home/dsr/proyectos/tariczilla/docs/source/manual.rst",
+		"/home/dsr/proyectos/tariczilla/.tox/acceptation/bin/rst2html.py",
+		"/home/dsr/proyectos/tariczilla/.tox/acceptation/README.rst",
+		"/home/dsr/proyectos/tariczilla/.coverage",
+		"/home/dsr/proyectos/tariczilla/.tox/acceptation/lib/python2.7/site-packages/sqlalchemy/dialects/oracle/cx_oracle.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/static/js/src/Comment.js",
+		"/home/dsr/proyectos/tariczilla/docs/source/tariczilla.rst",
+		"/home/dsr/proyectos/tariczilla/tariczilla/helpers.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/api/notifications.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/static/js/src/ErrorView.js",
+		"/home/dsr/proyectos/tariczilla/tariczilla/database/versions/23a646a956a7_create_comments_tabl.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/database/versions/266f9462409f_creates_offices_table.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/static/js/templates/commentForm.handlebars",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/static/js/src/CommentFormView.js",
+		"/home/dsr/proyectos/tariczilla/tariczilla/database/versions/2.2.5-r1_aumenta_tamano_comentarios.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/cli/database.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/application_dispatcher.py",
+		"/home/dsr/proyectos/tariczilla/static/.webassets-cache/23ac03979ee1337f7cf57f0547a19f92",
+		"/home/dsr/proyectos/tariczilla/tnote_2.2.0_amd64.deb",
+		"/home/dsr/proyectos/tariczilla/tariczilla/__init__.py",
+		"/home/dsr/proyectos/tariczilla/.tox/acceptation/lib/python2.7/site-packages/babel/localedata/ig_NG.dat",
+		"/home/dsr/proyectos/tariczilla/coverage.xml",
+		"/home/dsr/proyectos/tariczilla/tariczilla/database/versions/2.2.3-r1_arregla_error_en_lista_valores_de.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/database/versions/2422a770fe6c_.py",
+		"/home/dsr/proyectos/tariczilla/setup.py",
+		"/home/dsr/proyectos/tariczilla/setup.cfg",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/static/js/select2_locale_es.js",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/static/css/styles.css",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/filters.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/database/versions/2538f7ddb0a7_create_table_history_fields.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/static/js/specs/CommentViewSpec.js",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/templates/error.html",
+		"/home/dsr/proyectos/tariczilla/.tox/acceptation/lib/python2.7/site-packages/docutils/utils/error_reporting.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/static/js/src/HistoryView.js",
+		"/home/dsr/proyectos/tariczilla/HISTORY.rst",
+		"/home/dsr/proyectos/tariczilla/.tox/acceptation/lib/python2.7/site-packages/webassets/updater.py",
+		"/home/dsr/proyectos/tariczilla/.tox/funkload/lib/python2.7/site-packages/tariczilla/web/static/js/locales/bootstrap-datepicker.fi.js",
+		"/home/dsr/proyectos/tariczilla/.tox/acceptation/lib/python2.7/site-packages/setuptools/command/upload_docs.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/static/js/src/UserPermissionsForm.js",
+		"/home/dsr/proyectos/tariczilla/tariczilla/api/users.py",
+		"/home/dsr/proyectos/tariczilla/.tox/acceptation/lib/python2.7/copy_reg.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/cli.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/database/versions/2681739a2a50_create_areas_table.py",
+		"/home/dsr/proyectos/tariczilla/tests/features/create_issue.feature",
+		"/home/dsr/proyectos/tariczilla/tariczilla/filters.py",
+		"/home/dsr/proyectos/tariczilla/.tox/acceptation/lib/python2.7/site-packages/sphinx/jinja2glue.py",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/static/js/templates/error-message.handlebars",
+		"/home/dsr/proyectos/tariczilla/static/.webassets-cache/e14026930f766361202c511916833cf2",
+		"/home/dsr/proyectos/tariczilla/.tox/acceptation/lib/python2.7/site-packages/flask_assets.py",
+		"/home/dsr/proyectos/tariczilla/.tox/acceptation/lib/python2.7/site-packages/babel/localedata/fr_LU.dat",
+		"/home/dsr/proyectos/tariczilla/.tox/acceptation/lib/python2.7/site-packages/pytz/zoneinfo/Pacific/Enderbury",
+		"/home/dsr/proyectos/tariczilla/.tox/acceptation/lib/python2.7/site-packages/gunicorn/http/_sendfile.py",
+		"/home/dsr/proyectos/tariczilla/.tox/acceptation/lib/python2.7/site-packages/babel/localedata/se_NO.dat",
+		"/home/dsr/proyectos/tariczilla/tariczilla/web/static/js/src/Attachments.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"timeout",
+			"logger",
+			"_report_data",
+			"report",
+			"app.repor",
+			"load_http_session",
+			"validate_access_token",
+			".get",
+			"requests.",
+			"http",
+			":ref:",
+			"mailto",
+			".email",
+			"format",
+			"render_template",
+			"render_templa",
+			"font-fam",
+			"/br",
+			"invalidate_token",
+			"_filter_update_allowed_data",
+			"_check_update_permission_on_certain_fields",
+			"_check_update_permission",
+			"send_notif",
+			"pretty_print_list",
+			"notify",
+			"_notify_issue_creation",
+			"current_user",
+			"api.No",
+			"_areaRenderer",
+			"record_deletion",
+			"record_add",
+			".all",
+			"MixinTestApiMethodsSession",
+			"self.__dict__",
+			"createComment",
+			"record_",
+			"new_value=",
+			"new_value",
+			"new_value=",
+			"length",
+			"size",
+			"AbstractConcreteBase",
+			"TARICZILLA",
+			"001288",
+			"039",
+			"footer",
+			"query",
+			"in_",
+			"create_engin",
+			"modal",
+			"test",
+			"self.user",
+			"get_database",
+			"empty_handler",
+			"error_mana",
+			"str:",
+			"_get_sessions",
+			"form",
+			"use_reload",
+			"ifEqual",
+			"searchSaveForm",
+			"onSave",
+			"data = self.issue.to_dict()",
+			"self.issue.to_dict()",
+			"issue.attachments",
+			"_validate",
+			"_prepareModel",
+			"\"",
+			"types",
+			"kinds",
+			"userAreasByKindAndOffice",
+			"OfficeSelector",
+			"preload_data",
+			"relations.get",
+			"relations.append",
+			"node",
+			"_assert_issue_with_title_is_in_results",
+			"_assert_one_single_issue_in_results",
+			"install_fixture",
+			"_install_fixture",
+			"update_from",
+			"create_from",
+			"update_from",
+			"create_from",
+			"update_from",
+			"create_from",
+			"_filter_update_allowed_data",
+			"set_trace",
+			"_update_permissions",
+			"TARICZILLA.UserPermissionsView",
+			"name",
+			"update_from_accounts_info",
+			"get_or_create_from_accounts_info",
+			"create_user",
+			"accounts",
+			"_get_or_create_user",
+			" {",
+			"UserAreaNotificationRule",
+			"UserAreaNotificationsList",
+			"addRuleToUser",
+			"TARICZILLA",
+			"getRulesCollection",
+			"resetUserAreas",
+			"eventTypesToJson",
+			"batch_areas",
+			"ID",
+			"batch_areas",
+			"_add_area",
+			"patch",
+			"PUT",
+			"PATCH",
+			"disallowUserAreas",
+			"getUserAreasCollection",
+			"getSelectedUserAreas",
+			"renderUsersList",
+			"json_area",
+			"BadInput",
+			"area2",
+			"area1",
+			"self._add_are",
+			"user_session",
+			"user_areas",
+			"moment",
+			"renderKind",
+			"session",
+			"_create_db",
+			"create_from_model",
+			"dumps"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"data = self.data()",
+			"self.data()",
+			"/static/img",
+			"\"1\"",
+			"\"0\"",
+			"",
+			"\"",
+			"",
+			"(self.returned_user)",
+			"self.returned_user:",
+			"self.returned_user."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/home/dsr/proyectos/tariczilla"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/dsr/proyectos/tariczilla/tests/unit/web/test_admin_handler.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1691,
+								1691
+							]
+						],
+						"settings":
+						{
+							"line_numbers": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"repeat_data":
+								[
+									"vi",
+									"cw",
+									"mode_insert",
+									null
+								],
+								"sequence": "",
+								"xpos": 49
+							},
+							"vintage_lines.line": 38,
+							"vintage_lines.lines": 111,
+							"vintage_lines.mode": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/dsr/proyectos/tariczilla/tests/unit/web/test_user_handler.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3722,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1627,
+								1627
+							]
+						],
+						"settings":
+						{
+							"line_numbers": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"repeat_data":
+								[
+									"vi",
+									"cw",
+									"mode_insert",
+									null
+								],
+								"sequence": "",
+								"xpos": 49
+							},
+							"vintage_lines.line": 40,
+							"vintage_lines.lines": 111,
+							"vintage_lines.mode": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/dsr/proyectos/tariczilla/tests/unit/web/test_error_handler.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2928,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1086,
+								1086
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"line_numbers": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"repeat_data":
+								[
+									"native",
+									[
+										"sequence",
+										{
+											"commands":
+											[
+												[
+													"_vi_c",
+													{
+														"count": 1,
+														"mode": "mode_internal_normal",
+														"motion":
+														{
+															"motion": "_vi_w",
+															"motion_args":
+															{
+																"count": 1,
+																"mode": "mode_internal_normal"
+															}
+														},
+														"register": "\""
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "reports"
+													}
+												]
+											]
+										}
+									],
+									"mode_insert",
+									null
+								],
+								"sequence": "",
+								"xpos": 48
+							},
+							"vintage_lines.line": 27,
+							"vintage_lines.lines": 76,
+							"vintage_lines.mode": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/dsr/proyectos/tariczilla/tests/unit/web/test_issues_handler.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6752,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3470,
+								3470
+							]
+						],
+						"settings":
+						{
+							"line_numbers": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 87
+							},
+							"vintage_lines.line": 83,
+							"vintage_lines.lines": 188,
+							"vintage_lines.mode": false
+						},
+						"translation.x": 13.0,
+						"translation.y": 734.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/dsr/proyectos/tariczilla/tests/unit/web/test_session_handler.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2052,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1359,
+								1359
+							]
+						],
+						"settings":
+						{
+							"line_numbers": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"repeat_data":
+								[
+									"vi",
+									"D",
+									"mode_normal",
+									null
+								],
+								"sequence": "",
+								"xpos": 0
+							},
+							"vintage_lines.line": 45,
+							"vintage_lines.lines": 74,
+							"vintage_lines.mode": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 114.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/dsr/proyectos/tariczilla/tests/unit/web/test_notification_rules_handler.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2758,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								274,
+								274
+							]
+						],
+						"settings":
+						{
+							"line_numbers": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"repeat_data":
+								[
+									"vi",
+									"cw",
+									"mode_insert",
+									null
+								],
+								"sequence": "",
+								"xpos": 49
+							},
+							"vintage_lines.line": 11,
+							"vintage_lines.lines": 84,
+							"vintage_lines.mode": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/dsr/proyectos/tariczilla/tariczilla/database/versions/2.2.3-r1_arregla_error_en_lista_valores_de.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1281,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"line_numbers": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							},
+							"vintage_lines.line": 0,
+							"vintage_lines.lines": 51,
+							"vintage_lines.mode": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 114.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/dsr/proyectos/tariczilla/tariczilla/database/versions/2538f7ddb0a7_create_table_history_fields.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1436,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								786,
+								786
+							]
+						],
+						"settings":
+						{
+							"line_numbers": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							},
+							"vintage_lines.line": 36,
+							"vintage_lines.lines": 59,
+							"vintage_lines.mode": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 342.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/dsr/proyectos/tariczilla/tariczilla/web/static/css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4761,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4759,
+								4759
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"line_numbers": false,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"repeat_data":
+								[
+									"native",
+									[
+										"expand_abbreviation_by_tab",
+										null
+									],
+									null,
+									null
+								],
+								"sequence": "",
+								"xpos": 28
+							},
+							"vintage_lines.line": 349,
+							"vintage_lines.lines": 350,
+							"vintage_lines.mode": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6154.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/home/dsr/proyectos/tariczilla/tariczilla/api/exceptions.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 443,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								63
+							]
+						],
+						"settings":
+						{
+							"line_numbers": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							},
+							"vintage_lines.line": 6,
+							"vintage_lines.lines": 41,
+							"vintage_lines.mode": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/home/dsr/proyectos/tariczilla/tariczilla/web/handlers.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13933,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13565,
+								13565
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"line_numbers": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"repeat_data":
+								[
+									"vi",
+									"cc",
+									"mode_insert",
+									null
+								],
+								"sequence": "",
+								"xpos": 0
+							},
+							"vintage_lines.line": 411,
+							"vintage_lines.lines": 420,
+							"vintage_lines.mode": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7498.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/home/dsr/proyectos/tariczilla/server.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1801,
+								1801
+							]
+						],
+						"settings":
+						{
+							"line_numbers": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"repeat_data":
+								[
+									"vi",
+									"x",
+									"mode_normal",
+									null
+								],
+								"sequence": "",
+								"xpos": 0
+							},
+							"vintage_lines.line": 63,
+							"vintage_lines.lines": 81,
+							"vintage_lines.mode": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 684.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/home/dsr/proyectos/tariczilla/tests/integration/cli/test_database.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 927,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								464,
+								464
+							]
+						],
+						"settings":
+						{
+							"line_numbers": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"repeat_data":
+								[
+									"vi",
+									"cw",
+									"mode_insert",
+									null
+								],
+								"sequence": "",
+								"xpos": 46
+							},
+							"vintage_lines.line": 15,
+							"vintage_lines.lines": 26,
+							"vintage_lines.mode": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/home/dsr/proyectos/tariczilla/tariczilla/rest/handlers.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11227,
+								11227
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"history_list_is_closing": true,
+							"line_numbers": true,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"repeat_data":
+								[
+									"vi",
+									"dd",
+									"mode_internal_normal",
+									null
+								],
+								"sequence": "",
+								"xpos": 0
+							},
+							"vintage_lines.line": 360,
+							"vintage_lines.lines": 732,
+							"vintage_lines.mode": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6325.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/home/dsr/proyectos/tariczilla/tariczilla/api/users.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12563,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2590,
+								2590
+							]
+						],
+						"settings":
+						{
+							"line_numbers": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_visual",
+								"motion": null,
+								"motion_count": "",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							},
+							"vintage_lines.line": 77,
+							"vintage_lines.lines": 345,
+							"vintage_lines.mode": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1157.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/home/dsr/proyectos/tariczilla/tariczilla/filters.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12522,
+								12529
+							]
+						],
+						"settings":
+						{
+							"line_numbers": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_visual",
+								"motion": null,
+								"motion_count": "",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							},
+							"vintage_lines.line": 333,
+							"vintage_lines.lines": 372,
+							"vintage_lines.mode": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5867.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/home/dsr/proyectos/tariczilla/tariczilla/rest/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9373,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"line_numbers": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							},
+							"vintage_lines.line": 0,
+							"vintage_lines.lines": 225,
+							"vintage_lines.mode": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3762.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/home/dsr/proyectos/tariczilla/tariczilla/web/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3431,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"line_numbers": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"repeat_data":
+								[
+									"vi",
+									"cw",
+									"mode_insert",
+									null
+								],
+								"sequence": "",
+								"xpos": 64
+							},
+							"vintage_lines.line": 0,
+							"vintage_lines.lines": 85,
+							"vintage_lines.mode": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1013.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "/home/dsr/proyectos/tariczilla/tariczilla/api/accounts.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3183,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								869,
+								869
+							]
+						],
+						"settings":
+						{
+							"line_numbers": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 11
+							},
+							"vintage_lines.line": 32,
+							"vintage_lines.lines": 92,
+							"vintage_lines.mode": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 627.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"taric-boo",
+				"tariczilla/web/static/css/taric-bootstrap.css"
+			],
+			[
+				"taric-o",
+				"tariczilla/web/static/css/taric-bootstrap.css.orig"
+			],
+			[
+				"sty",
+				"tariczilla/web/static/css/styles.css"
+			],
+			[
+				"filter",
+				"tariczilla/filters.py"
+			],
+			[
+				"apiusers",
+				"tariczilla/api/users.py"
+			],
+			[
+				"resthandler",
+				"tariczilla/rest/handlers.py"
+			],
+			[
+				"testdatabase",
+				"tests/integration/cli/test_database.py"
+			],
+			[
+				"testnotifruleshan",
+				"tests/unit/web/test_notification_rules_handler.py"
+			],
+			[
+				"testsessionhandler",
+				"tests/unit/web/test_session_handler.py"
+			],
+			[
+				"testissueshandler",
+				"tests/unit/web/test_issues_handler.py"
+			],
+			[
+				"testissueshandl",
+				"tests/unit/rest/test_issues_handler.py"
+			],
+			[
+				"testerror",
+				"tests/unit/web/test_error_handler.py"
+			],
+			[
+				"testuserhand",
+				"tests/unit/web/test_user_handler.py"
+			],
+			[
+				"testsunitwebadminh",
+				"tests/unit/web/test_admin_handler.py"
+			],
+			[
+				"resthand",
+				"tariczilla/rest/handlers.py"
+			],
+			[
+				"server",
+				"server.json"
+			],
+			[
+				"serve",
+				"server-local.json"
+			],
+			[
+				"app",
+				"tariczilla/application.py"
+			],
+			[
+				"app.h",
+				"tariczilla/web/templates/app.html"
+			],
+			[
+				"repo",
+				"tariczilla/web/templates/reports.html"
+			],
+			[
+				"webinit",
+				"tariczilla/web/__init__.py"
+			],
+			[
+				"restinit",
+				"tariczilla/rest/__init__.py"
+			],
+			[
+				"webhand",
+				"tariczilla/web/handlers.py"
+			],
+			[
+				"decor",
+				"tariczilla/api/decorators.py"
+			],
+			[
+				"accounts",
+				"tariczilla/api/accounts.py"
+			],
+			[
+				"excep",
+				"tariczilla/api/exceptions.py"
+			],
+			[
+				"readme",
+				"README.rst"
+			],
+			[
+				"reportshtml",
+				"tariczilla/web/templates/reports.html"
+			],
+			[
+				"rest.",
+				"tariczilla/api/rest.py"
+			],
+			[
+				"oauth",
+				"tariczilla/api/oauth.py"
+			],
+			[
+				"resthandlers",
+				"tariczilla/rest/handlers.py"
+			],
+			[
+				"reporth",
+				"tariczilla/web/templates/reports.html"
+			],
+			[
+				"webhandl",
+				"tariczilla/web/handlers.py"
+			],
+			[
+				"reports",
+				"tariczilla/api/reports.py"
+			],
+			[
+				"oau",
+				"tariczilla/api/oauth.py"
+			],
+			[
+				"appl",
+				"tariczilla/application.py"
+			],
+			[
+				"webini",
+				"tariczilla/web/__init__.py"
+			],
+			[
+				"webhandler",
+				"tariczilla/web/handlers.py"
+			],
+			[
+				"apiinit",
+				"tariczilla/api/__init__.py"
+			],
+			[
+				"apphtml",
+				"tariczilla/web/templates/app.html"
+			],
+			[
+				"reporthtml",
+				"tariczilla/web/templates/reports.html"
+			],
+			[
+				"jrxml",
+				"reports/incidenciasabiertas.jrxml"
+			],
+			[
+				"testres",
+				"tests/unit/api/test_rest_client.py"
+			],
+			[
+				"rest",
+				"tariczilla/api/rest.py"
+			],
+			[
+				"templates/areash",
+				"tariczilla/web/templates/areas.html"
+			],
+			[
+				"init",
+				"tariczilla/__init__.py"
+			],
+			[
+				"commentjs",
+				"tariczilla/web/static/js/src/Comment.js"
+			],
+			[
+				"setupp",
+				"setup.py"
+			],
+			[
+				"commentform",
+				"tariczilla/web/static/js/src/CommentFormView.js"
+			],
+			[
+				"commentfo",
+				"tariczilla/web/static/js/templates/commentForm.handlebars"
+			],
+			[
+				"errorvi",
+				"tariczilla/web/static/js/src/ErrorView.js"
+			],
+			[
+				"historyfiel",
+				"tariczilla/database/versions/2538f7ddb0a7_create_table_history_fields.py"
+			],
+			[
+				"createcomm",
+				"tariczilla/database/versions/23a646a956a7_create_comments_tabl.py"
+			],
+			[
+				"webhanl",
+				"tariczilla/web/handlers.py"
+			],
+			[
+				"appli",
+				"tariczilla/application.py"
+			],
+			[
+				"tasks",
+				"tariczilla/tasks.py"
+			],
+			[
+				"style",
+				"tariczilla/web/static/css/styles.css"
+			],
+			[
+				"webfilte",
+				"tariczilla/web/filters.py"
+			],
+			[
+				"filters",
+				"tariczilla/filters.py"
+			],
+			[
+				"emailb",
+				"tariczilla/web/templates/email_body.html"
+			],
+			[
+				"help",
+				"tariczilla/helpers.py"
+			],
+			[
+				"mapper",
+				"tariczilla/mappers.py"
+			],
+			[
+				"attachment",
+				"tariczilla/web/static/js/src/AttachmentsView.js"
+			],
+			[
+				"attachmenthis",
+				"tariczilla/web/static/js/templates/attachmentHistory.handlebars"
+			],
+			[
+				"newsvi",
+				"tariczilla/web/static/js/src/NewsView.js"
+			],
+			[
+				"historyhand",
+				"tariczilla/web/static/js/templates/history.handlebars"
+			],
+			[
+				"historyv",
+				"tariczilla/web/static/js/src/HistoryView.js"
+			],
+			[
+				"attachment.js",
+				"tariczilla/web/static/js/src/Attachments.js"
+			],
+			[
+				"webhan",
+				"tariczilla/web/handlers.py"
+			],
+			[
+				"hist",
+				"HISTORY.rst"
+			],
+			[
+				"testareashandl",
+				"tests/unit/rest/test_areas_handler.py"
+			],
+			[
+				"areajs",
+				"tariczilla/web/static/js/src/Area.js"
+			],
+			[
+				"areasmaste",
+				"tariczilla/web/static/js/src/AreasMasterView.js"
+			],
+			[
+				"treeno",
+				"tariczilla/web/static/js/templates/treeNode.handlebars"
+			],
+			[
+				"areastr",
+				"tariczilla/web/static/js/src/AreasTreeView.js"
+			],
+			[
+				"areasmas",
+				"tariczilla/web/static/js/src/AreasMasterView.js"
+			],
+			[
+				"areashtml",
+				"tariczilla/web/templates/areas.html"
+			],
+			[
+				"kindrule",
+				"tariczilla/web/static/js/templates/kindRulesRow.handlebars"
+			],
+			[
+				"rulesformhandle",
+				"tariczilla/web/static/js/templates/rulesForm.handlebars"
+			],
+			[
+				"rulesform",
+				"tariczilla/web/static/js/src/RulesForm.js"
+			],
+			[
+				"notif",
+				"tariczilla/web/templates/notification_rules.html"
+			],
+			[
+				"serverlo",
+				"server-local.json"
+			],
+			[
+				"historyrs",
+				"HISTORY.rst"
+			],
+			[
+				"createoffice",
+				"tariczilla/database/versions/266f9462409f_creates_offices_table.py"
+			],
+			[
+				"historyfields",
+				"tariczilla/database/versions/2538f7ddb0a7_create_table_history_fields.py"
+			],
+			[
+				"userpem",
+				"tariczilla/web/static/js/src/UserPermissionsForm.js"
+			],
+			[
+				"uservi",
+				"tariczilla/web/static/js/src/UserView.js"
+			],
+			[
+				"userhtml",
+				"tariczilla/web/templates/user.html"
+			],
+			[
+				"permissiformhand",
+				"tariczilla/web/static/js/templates/permissionsForm.handlebars"
+			],
+			[
+				"userhan",
+				"tariczilla/web/static/js/templates/user.handlebars"
+			],
+			[
+				"testusershand",
+				"tests/unit/rest/test_users_handler.py"
+			],
+			[
+				"testunitrestuser",
+				"tests/unit/rest/test_users_handler.py"
+			],
+			[
+				"userhandlebar",
+				"tariczilla/web/static/js/templates/user.handlebars"
+			],
+			[
+				"userfo",
+				"tariczilla/web/static/js/src/UserForm.js"
+			],
+			[
+				"serialization",
+				"tariczilla/serialization.py"
+			],
+			[
+				"serializato",
+				"tariczilla/serializators.py"
+			],
+			[
+				"clip",
+				"tariczilla/cli.py"
+			],
+			[
+				"historyfield",
+				"tariczilla/database/versions/2538f7ddb0a7_create_table_history_fields.py"
+			],
+			[
+				"notify",
+				"tariczilla/database/versions/1b63c3aab38b_adds_not_notify_own_actions.py"
+			],
+			[
+				"apiissu",
+				"tariczilla/api/issues.py"
+			],
+			[
+				"apinotifi",
+				"tariczilla/api/notifications.py"
+			],
+			[
+				"models",
+				"tariczilla/models.py"
+			],
+			[
+				"mappe",
+				"tariczilla/mappers.py"
+			],
+			[
+				"task",
+				"tariczilla/tasks.py"
+			],
+			[
+				"apinotifica",
+				"tariczilla/api/notifications.py"
+			],
+			[
+				"applic",
+				"tariczilla/application.py"
+			],
+			[
+				"notifica",
+				"tariczilla/api/notifications.py"
+			],
+			[
+				"attachmentsvi",
+				"tariczilla/web/static/js/src/AttachmentsView.js"
+			],
+			[
+				"testunitrest",
+				"tests/unit/rest/test_areas_handler.py"
+			],
+			[
+				"attachme",
+				"tariczilla/web/static/js/templates/attachments.handlebars"
+			],
+			[
+				"issuehtml",
+				"tariczilla/web/templates/issue.html"
+			],
+			[
+				"commentsvi",
+				"tariczilla/web/static/js/src/CommentsView.js"
+			],
+			[
+				"attachmentsview",
+				"tariczilla/web/static/js/src/AttachmentsView.js"
+			],
+			[
+				"historyvi",
+				"tariczilla/web/static/js/src/HistoryView.js"
+			],
+			[
+				"newsjs",
+				"tariczilla/web/static/js/src/News.js"
+			],
+			[
+				"testhistor",
+				"tests/integration/test_history.py"
+			],
+			[
+				"integrationissue",
+				"tests/integration/test_issue.py"
+			],
+			[
+				"apiiss",
+				"tariczilla/api/issues.py"
+			],
+			[
+				"versions/office",
+				"tariczilla/database/versions/266f9462409f_creates_offices_table.py"
+			],
+			[
+				"commentvi",
+				"tariczilla/web/static/js/specs/CommentViewSpec.js"
+			],
+			[
+				"ness",
+				"tariczilla/web/static/js/specs/NewsSpec.js"
+			],
+			[
+				"specrun",
+				"tariczilla/web/static/js/SpecRunner.html"
+			],
+			[
+				"apiini",
+				"tests/unit/api/__init__.py"
+			],
+			[
+				"apiissue",
+				"tariczilla/api/issues.py"
+			],
+			[
+				"testissues",
+				"tests/unit/api/test_issues.py"
+			],
+			[
+				"testattachments",
+				"tests/unit/test_attachments.py"
+			],
+			[
+				"testcommenthan",
+				"tests/unit/rest/test_comments_handler.py"
+			],
+			[
+				"resthandl",
+				"tariczilla/rest/handlers.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/proyectos/tnote-angular/tnote-angular.sublime-project"
+			],
+			[
+				"che",
+				"~/proyectos/chef.sublime-project"
+			],
+			[
+				"caron",
+				"~/proyectos/caronte.sublime-project"
+			],
+			[
+				"caro",
+				"~/proyectos/caronte.sublime-project"
+			],
+			[
+				"car",
+				"~/proyectos/caronte.sublime-project"
+			],
+			[
+				"chef",
+				"~/proyectos/chef.sublime-project"
+			],
+			[
+				"caor",
+				"~/proyectos/caronte.sublime-project"
+			],
+			[
+				"ca",
+				"~/proyectos/caronte.sublime-project"
+			],
+			[
+				"caronte",
+				"~/proyectos/caronte.sublime-project"
+			],
+			[
+				"caonte",
+				"~/proyectos/caronte.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+		"_vintageous_last_buffer_search": "ipd",
+		"_vintageous_last_char_search_command": "vi_t",
+		"_vintageous_last_character_search": "0",
+		"_vintageous_last_character_search_forward": true,
+		"_vintageous_last_macro":
+		[
+		],
+		"_vintageous_recording_macro": true,
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "/home/dsr/.config/sublime-text-3/Packages"
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 349.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

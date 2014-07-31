@@ -10,5 +10,8 @@
 (require 'evil-surround)
 (global-evil-surround-mode 1)
 
-(require 'solarized-dark-theme)
+(require 'solarized-theme)
 (setq evil-default-cursor 1)
+
+(add-to-list 'default-frame-alist '(font . "Monaco-9"))
+(set-face-attribute 'default t :font "Monaco-9")

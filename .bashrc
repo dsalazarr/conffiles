@@ -122,6 +122,10 @@ fi
 export WORKON_HOME=~/Envs
 source /usr/local/bin/virtualenvwrapper.sh
 
+## Aliases
+
+alias clip='xclip -selection c'
+
 ## Functions
 
 WORKDIR=~/qustodio

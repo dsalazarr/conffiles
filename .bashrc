@@ -121,6 +121,7 @@ fi
 
 export WORKON_HOME=~/Envs
 source /usr/local/bin/virtualenvwrapper.sh
+PS1='\u \w$(__git_ps1)\$ '
 
 ## Aliases
 

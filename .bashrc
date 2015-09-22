@@ -123,26 +123,5 @@ export WORKON_HOME=~/Envs
 source /usr/local/bin/virtualenvwrapper.sh
 PS1='\u \w$(__git_ps1)\$ '
 
-## Aliases
+source .functions
 
-alias clip='xclip -selection c'
-
-## Functions
-
-WORKDIR=~/qustodio
-VPNDIR=~/vpn
-ANSIBLEDIR=~/qustodio/deployment/ansible
-work () {
-  if [ -d $WORKDIR/$1 ] 
-  then
-    cd $WORKDIR/$1 &> /dev/null
-    workon $1 &> /dev/null
-  elif [ -f $VPNDIR/$1 ]
-  then
-    cd $VPNDIR
-    ./$1
-  elif [ $1 == 'ansible' ]
-  then
-    cd $ANSIBLEDIR
-  fi
-}

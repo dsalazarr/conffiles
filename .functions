@@ -1,0 +1,39 @@
+alias clip='xclip -selection c'
+
+WORKDIR=~/qustodio
+VPNDIR=~/vpn
+ANSIBLEDIR=~/qustodio/deployment/ansible
+
+work () {
+  if [ -d $WORKDIR/$1 ]
+  then
+    cd $WORKDIR/$1 &> /dev/null
+    workon $1 &> /dev/null
+  elif [ -f $VPNDIR/$1 ]
+  then
+    cd $VPNDIR
+    ./$1
+  elif [ $1 == 'ansible' ]
+  then
+    cd $ANSIBLEDIR
+    workon $1
+  fi
+}
+
+deploy () {
+  work ansible
+  PROJECT=$1
+  ENV=$2
+  BRANCH=''
+  if [ $# > 3 ]
+  then
+    BRANCH=$3
+  fi
+  COMMAND="-i hosts --limit "$PROJECT"02."$ENV".qustodio.net -vvvv site.yml"
+  if [ "$BRANCH" != '' ]
+  then
+    COMMAND="{$COMMAND} -e branch=$BRANCH"
+  fi
+  ansible-playbook $COMMAND
+}
+

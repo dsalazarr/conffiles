@@ -9,11 +9,12 @@ work () {
   then
     cd $WORKDIR/$1 &> /dev/null
     workon $1 &> /dev/null
+    source vars &> /dev/null
   elif [ -f $VPNDIR/$1 ]
   then
     cd $VPNDIR
     ./$1
-  elif [ $1 == 'ansible' ]
+  elif [ $1 = 'ansible' ]
   then
     cd $ANSIBLEDIR
     workon $1
@@ -32,7 +33,7 @@ deploy () {
   COMMAND="-i hosts --limit "$PROJECT"02."$ENV".qustodio.net -vvvv site.yml"
   if [ "$BRANCH" != '' ]
   then
-    COMMAND="{$COMMAND} -e branch=$BRANCH"
+    COMMAND="$COMMAND -e branch=$BRANCH"
   fi
   ansible-playbook $COMMAND
 }

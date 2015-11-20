@@ -90,4 +90,4 @@ bindkey "^R" history-incremental-search-backward
 export WORKON_HOME=~/Envs
 source /usr/local/bin/virtualenvwrapper.sh
 
-source .functions
+source ~/.functions

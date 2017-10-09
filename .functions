@@ -26,15 +26,31 @@ deploy () {
   PROJECT=$1
   ENV=$2
   BRANCH=''
+  STATUS_VPN=$(osascript ~/vpn/status.scpt $ENV)
+  
+  if [ $STATUS_VPN != 'CONNECTED' ]; then
+    osascript ~/vpn/disconnect.scpt
+    osascript ~/vpn/connect_$ENV.scpt
+  fi
   if [ $# > 3 ]
   then
     BRANCH=$3
   fi
-  COMMAND="-i hosts --limit "$PROJECT"02."$ENV".qustodio.net -vvvv site.yml"
+  COMMAND="-i hosts --limit "$PROJECT"s_"$ENV" -vvvv site.yml"
   if [ "$BRANCH" != '' ]
   then
-    COMMAND="$COMMAND -e branch=$BRANCH"
+    COMMAND="$COMMAND -e branch=$BRANCH -e qapi_branch=$BRANCH"
   fi
-  ansible-playbook $COMMAND
+  echo $COMMAND
+  $(ansible-playbook "$COMMAND")
 }
 
+go () {
+  if [ -d $1 ]; then
+    cd $1;
+  elif [ -f $1 ]; then
+    open $1;
+  elif [ -d .git ]; then
+    git co $1;
+  fi
+}

@@ -1,17 +1,28 @@
 [user]
-	name = Daniel Salazar
-	email = daniel.salazar@qustodio.com
+	name = "Daniel Salazar"
+	email = "daniel.salazar@qustodio.com"
 [core]
 	autocrlf = input
 	safecrlf = true
 	editor = vim
+	excludesfile = /Users/dsalazar/.gitignore_global
 [alias]
   co = checkout
   ci = commit
   st = status
   br = branch
+  au = add -u
+  cb = create-branch
   hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
   type = cat-file -t
   dump = cat-file -p
+  grepn = grep -n
+  cleanall = clean -d -f
 [push]
 	default = simple
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true

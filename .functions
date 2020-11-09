@@ -1,15 +1,16 @@
 alias clip='xclip -selection c'
 
-WORKDIR=~/qustodio
+WORKDIR=~/attackiq
 VPNDIR=~/vpn
 ANSIBLEDIR=~/qustodio/deployment/ansible
+SCENARIOS_DIR=$WORKDIR/scenarios/released
 
 work () {
   if [ -d $WORKDIR/$1 ]
   then
     cd $WORKDIR/$1 &> /dev/null
     workon $1 &> /dev/null
-    source vars &> /dev/null
+    source .vars &> /dev/null
   elif [ -f $VPNDIR/$1 ]
   then
     cd $VPNDIR
@@ -21,7 +22,24 @@ work () {
   fi
 }
 
-deploy () {
+worksc () {
+  if [ -d $SCENARIOS_DIR/$1 ]
+  then
+    cd $SCENARIOS_DIR/$1 &> /dev/null
+    workon $1 &> /dev/null
+    source vars &> /dev/null
+  elif [ -f $VPNDIR/$1 ]
+  then
+    cd $VPNDIR
+    ./$1
+  elif [ $1 = 'ansible' ]
+  then
+    cd $ANSIBLEDIR
+    workon $1
+  fi 
+}
+
+deploy_qustodio_old () {
   work ansible
   PROJECT=$1
   ENV=$2
@@ -45,7 +63,7 @@ deploy () {
   $(ansible-playbook "$COMMAND")
 }
 
-go () {
+goo () {
   if [ -d $1 ]; then
     cd $1;
   elif [ -f $1 ]; then

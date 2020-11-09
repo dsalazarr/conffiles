@@ -1,11 +1,11 @@
 [user]
-	name = "Daniel Salazar"
-	email = "daniel.salazar@qustodio.com"
+    name = "Daniel Salazar"
+    email = "daniel.salazar@attackiq.com"
 [core]
-	autocrlf = input
-	safecrlf = true
-	editor = vim
-	excludesfile = /Users/dsalazar/.gitignore_global
+    autocrlf = input
+    safecrlf = true
+    editor = vim
+    excludesfile = /Users/dsalazar/.gitignore_global
 [alias]
   co = checkout
   ci = commit
@@ -19,10 +19,10 @@
   grepn = grep -n
   cleanall = clean -d -f
 [push]
-	default = simple
+    default = simple
 [difftool "sourcetree"]
-	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
-	path = 
+    cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+    path = 
 [mergetool "sourcetree"]
-	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
-	trustExitCode = true
+    cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+    trustExitCode = true

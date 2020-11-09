@@ -1,6 +1,9 @@
 # Path to your oh-my-zsh installation.
   export ZSH=~/.oh-my-zsh
 
+export DOCKER_REGISTRY_URL=docker.io/
+export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
@@ -49,7 +52,7 @@ ZSH_THEME="agnoster"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git virtualenv vi-mode ssh-agent django)
+plugins=(git virtualenv vi-mode ssh-agent django autojump)
 
 # User configuration
 
@@ -82,7 +85,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias ipython="ipython --TerminalInteractiveShell.editing_mode=vi"
+# alias ipython="ipython --TerminalInteractiveShell.editing_mode=vi"
 
 ## Custom
 
@@ -92,3 +95,11 @@ export WORKON_HOME=~/Envs
 source /usr/local/bin/virtualenvwrapper.sh
 
 source ~/.functions
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+if command -v pyenv 1>/dev/null 2>&1; then
+  eval "$(pyenv init -)"
+fi
+
+# Created by `userpath` on 2020-10-08 12:39:52
+export PATH="$PATH:/Users/dsalazar/.local/bin"

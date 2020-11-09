@@ -1,0 +1,4 @@
+.vars
+firedrill-server/docker-compose.debug.macos.firedrill-server.yml
+firedrill-server/docker-compose.debug.macos.firedrill-server.yml.copy
+fd-deploy/docker-compose.macos.yml
